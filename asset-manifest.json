@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/Note_WebApp_ReactRedux/static/css/main.e1cde2ba.css",
+    "main.js": "/Note_WebApp_ReactRedux/static/js/main.417bda4d.js",
+    "index.html": "/Note_WebApp_ReactRedux/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.e1cde2ba.css",
+    "static/js/main.417bda4d.js"
+  ]
+}
