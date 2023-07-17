@@ -1,0 +1,30 @@
+.createnotes {
+  width: 100%;
+  padding: 0px 8px;
+  form{
+    width: 100%;
+    margin: 15px 0px;
+    #textarea {
+      width: 100%;
+      resize: none;
+      height: 50px;
+      border: none;
+      outline: none;
+      box-shadow: 2px 2px 3px 3px rgb(211, 211, 211);
+      border-radius: 20px;
+      font-size: 18px;
+      padding: 10px 0 0 20px;
+      line-height: 30px;
+    }
+    button{
+      border: none;
+      outline: none;
+      padding: 10px 20px;
+      border-radius: 10px;
+      margin: 10px 0px;
+      cursor: pointer;
+      background: gainsboro;
+    }
+  }
+ 
+}

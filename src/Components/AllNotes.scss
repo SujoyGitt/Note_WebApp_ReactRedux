@@ -1,0 +1,20 @@
+
+
+.allNotes{
+  width: 100%;
+  max-width: 1080px;
+  padding: 10px;
+  h3{
+    font-size: 22px;
+    font-weight: 400;
+    color: #969696;
+    letter-spacing: 1px;
+    margin: 10px 0px;
+  }
+  .note_container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+ 
+}

@@ -1,0 +1,31 @@
+.card{
+  padding: 13px ;
+  box-shadow: 3px 3px 5px 3px rgb(226, 226, 226),-3px -3px 5px 3px white;
+  width: 200px;
+  height: fit-content;
+  max-height: 200px;
+  word-wrap: break-word;
+  overflow: scroll;
+  border-radius: 15px;
+  margin-top: 20px;
+  &::-webkit-scrollbar{
+    width: 0;
+  }
+  .card_header{
+    margin: 5px 0px;
+  }
+  .importent{
+    border: none;
+    outline: none;
+    padding: 10px;
+    background: #969696;
+    color: aliceblue;
+    border-radius: 4px;
+    margin-top: 8px;
+  }
+}
+@media (max-width:576px) {
+  .card{
+    width: 100%;
+  }
+}
